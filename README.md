@@ -1,8 +1,14 @@
 # github-forge
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/ayoemanise/makefun/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/ayoemanise/makefun/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A GitHub-compatible git forge in a single Node process — an entry for
 [make.fun's "Build a GitHub-compatible git forge" bounty](https://make.fun/bounty/github-core-clone-01)
 ($500, entries close 2026-11-21 13:30 WIB).
+
+Built with [make.fun](https://make.fun/r/v4tk2e29) — referral code `v4tk2e29`.
 
 Local conformance score: **120/120 checks, 984–988/1000** (`sdk/run.ts` from the bounty kit,
 fresh server, with `--perf`).
